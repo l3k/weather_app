@@ -30,14 +30,14 @@ npx pod-install ios
 
 
 ### Passo 4: Executando os projetos nos emuladores:
-#### Android
+##### Android
 ```sh
 npm android
 ```
 ```sh
 yarn android
 ```
-#### iOS
+##### iOS
 ```sh
 npm ios
 ```
